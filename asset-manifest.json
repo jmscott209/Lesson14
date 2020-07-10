@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/jmscott/WEB215/Lesson14/static/css/main.ca54370c.chunk.css",
+    "main.js": "/jmscott/WEB215/Lesson14/static/js/main.89359081.chunk.js",
+    "main.js.map": "/jmscott/WEB215/Lesson14/static/js/main.89359081.chunk.js.map",
+    "runtime-main.js": "/jmscott/WEB215/Lesson14/static/js/runtime-main.cf3d248a.js",
+    "runtime-main.js.map": "/jmscott/WEB215/Lesson14/static/js/runtime-main.cf3d248a.js.map",
+    "static/js/2.2fb10bbd.chunk.js": "/jmscott/WEB215/Lesson14/static/js/2.2fb10bbd.chunk.js",
+    "static/js/2.2fb10bbd.chunk.js.map": "/jmscott/WEB215/Lesson14/static/js/2.2fb10bbd.chunk.js.map",
+    "index.html": "/jmscott/WEB215/Lesson14/index.html",
+    "precache-manifest.4d517bebd2c3191029c47ab74161b523.js": "/jmscott/WEB215/Lesson14/precache-manifest.4d517bebd2c3191029c47ab74161b523.js",
+    "service-worker.js": "/jmscott/WEB215/Lesson14/service-worker.js",
+    "static/css/main.ca54370c.chunk.css.map": "/jmscott/WEB215/Lesson14/static/css/main.ca54370c.chunk.css.map",
+    "static/js/2.2fb10bbd.chunk.js.LICENSE.txt": "/jmscott/WEB215/Lesson14/static/js/2.2fb10bbd.chunk.js.LICENSE.txt",
+    "static/media/folio1.jpg": "/jmscott/WEB215/Lesson14/static/media/folio1.17d78e43.jpg",
+    "static/media/folio2.jpg": "/jmscott/WEB215/Lesson14/static/media/folio2.85c10cff.jpg",
+    "static/media/folio3.jpg": "/jmscott/WEB215/Lesson14/static/media/folio3.6c8202cb.jpg",
+    "static/media/folio4.jpg": "/jmscott/WEB215/Lesson14/static/media/folio4.cd53e576.jpg",
+    "static/media/folio5.jpg": "/jmscott/WEB215/Lesson14/static/media/folio5.1ad25639.jpg",
+    "static/media/folio6.jpg": "/jmscott/WEB215/Lesson14/static/media/folio6.b70a2248.jpg",
+    "static/media/folio7.jpg": "/jmscott/WEB215/Lesson14/static/media/folio7.93b66e9f.jpg",
+    "static/media/folio8.jpg": "/jmscott/WEB215/Lesson14/static/media/folio8.e38cc265.jpg",
+    "static/media/folio9.jpg": "/jmscott/WEB215/Lesson14/static/media/folio9.39d9dc60.jpg",
+    "static/media/me.jpg": "/jmscott/WEB215/Lesson14/static/media/me.98e3af1e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cf3d248a.js",
+    "static/js/2.2fb10bbd.chunk.js",
+    "static/css/main.ca54370c.chunk.css",
+    "static/js/main.89359081.chunk.js"
+  ]
+}
